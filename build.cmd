@@ -1,0 +1,1 @@
+ng build --prod --baseHref="https://thejamhutch.github.io/thejamhutch-web-app"
